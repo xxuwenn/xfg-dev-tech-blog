@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 我的博客简历
-tagline: 您好，我叫xw，这边是我的blog，用于学习交流。VV1 TEST
+tagline: 您好，我叫小傅哥，毕业于🎓吉林大学。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V5 TEST
 actions:
   - text: 查看简历 👣
     link: ./md/
