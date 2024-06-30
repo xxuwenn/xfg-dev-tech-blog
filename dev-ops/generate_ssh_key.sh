@@ -1,8 +1,6 @@
 #!/bin/bash
-
 # 设置默认的密钥文件路径
 KEY_PATH="$HOME/.ssh/id_rsa"
-
 # 检查是否已经存在密钥文件
 if [ -f "$KEY_PATH" ]; then
     echo "SSH 密钥文件 $KEY_PATH 已经存在。"
