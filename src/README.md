@@ -8,23 +8,23 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 我的博客简历
-tagline: 您好，我是xw，欢迎来到我的博客。VV1 TEST
+tagline: 您好，我是xw，欢迎来到我的博客，一起学习进步吧。VV1 TEST
 actions:
   - text: 查看简历 👣
     link: ./md/
     type: primary
 
-  - text: 我的项目 💐
-    link: https://openai.gaga.plus/
+  - text: 项目展示 💐
+    link: http://116.198.235.222:3000/?activityId=100301&userId=xuwen
 
 highlights:
   - header: 
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: 公众号 - 抽奖系统
+      - title: 微服务 - 抽奖系统
         icon: comment-dots
-        details: 23年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
+        details: 24年1月，以DDD领域驱动设计架构，开发完成微服务-抽奖系统。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
       - title: 手写 MyBatis
@@ -51,8 +51,7 @@ footer: |-
 
 ::: tip
 
-个人在大学/实习期间，参与过多次的技术类赛事项目，熟练使用各类技术框架，积累了丰富的开发经验。同时兼具着对技术的喜爱，长期对技术源码进行钻研学习吸收其中的设计精髓。尤其对 MyBatis 源码学习后，开发了一款监控 SQL 慢查询以及优化建议插件。并将此插件发布到了 IDEA Plugin 插件市场，半年获得了3000次下载量，获得了非常好的认可，个人也得到了非常多的成长。地址：http://github.com/xxxx/xxxx
+个人是个小菜鸟，在慢慢学习，没有啥天赋，希望可以和大家一起学习进步！希望秋招可以找到心仪的工作，也能培养出对编程的热爱。<里面东西不多，一点一点学习中！>github地址：https://github.com/xxuwenn/
 
 :::
-
->我是一名热爱技术的Java程序员，自从踏入这个充满挑战与机遇的专业以来，我始终保持着对技术的高度热情和追求。我深信技术的力量可以改变世界，也能够提升个人的专业素养。在日常工作中，我不仅注重个人技能的提升，更致力于跟踪和学习行业内的最新技术动态，如SpringBoot、微服务架构、容器化技术等，以确保自己的技术栈始终保持现代化和竞争力。
+>加油！一定可以！！！
